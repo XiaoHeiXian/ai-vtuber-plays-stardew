@@ -158,4 +158,5 @@ examples/blind_mcp_client.py   # 最小可用的 MCP 客户端（JSON / SSE 都�
 
 ## License
 
-本仓库的原创文字和代码示例使用 MIT License，见 [LICENSE](LICENSE)。上游项目、游戏、Mod、皮套和商标归各自作者所有。
+本仓库的原创文字和代码示例使用 MIT License，见 [LICENSE](LICENSE)。上游项目、游戏、Mod、皮套和商标归各自作者所有。#   a i - v t u b e r - p l a y s - s t a r d e w  
+ 
