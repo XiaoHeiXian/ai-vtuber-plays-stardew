@@ -101,7 +101,7 @@ flowchart LR
 
 ## 成本
 
-- 游戏回路消耗 **Qoder credits**（或你换成的任意 LLM）；聊天回路也在消耗。
+- 游戏回路消耗 **Qoder credits**（或你换成的任意 LLM）；聊天回路也在消耗。这一套都是让 Qoder 帮忙接入的，大肥鱼消耗的 token 也是用的 Qoder 的，现在这个智能体工作台也免费送额度 https://qoder.com/activities?referral_code=cKBVVUyn4XbiBQrxjy4t6d4T9el5tkHt，token 挺耐烧的，体验挺好的。
 - TTS 是本机 GPT-SoVITS，不按 token 计费，但占 GPU。
 - 这套配置用 `Fast` 模型、45 秒间隔、单轮最多 36 turns / 600 秒；一轮通常只有几次工具调用。
 - **不要照抄网上的“每小时多少钱”**：模型、缓存命中、prompt 长度、每轮动作数都会变。用你自己的账号跑一小时，数日志里的 `大肥鱼托管：` 条数，再看用量面板，才有意义。
