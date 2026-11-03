@@ -1,0 +1,24 @@
+# Local config, credentials and runtime data must never be committed.
+config.json
+config.json.bak-*
+.env
+.env.*
+*.cookie
+*.token
+
+# Logs, saves and runtime work dirs
+logs/
+*.log
+saves/
+qoder_workdir/
+stardew_qoder/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

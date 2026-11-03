@@ -1,0 +1,28 @@
+{
+  "overlay": {
+    "seconds": 8
+  },
+  "stardew": {
+    "enabled": true,
+    "mode": "blind",
+    "mod_dir": "C:/path/to/Stardew Valley/Mods/BlindWhaleFarmer",
+    "blind_dir": "",
+    "blind_port": 18080,
+    "blind_interval": 45,
+    "blind_max_age": 180,
+    "mention_probability": 100,
+    "mention_max_age": 300,
+    "qoder_model": "Fast",
+    "qoder_exe": "",
+    "tool_timeout": 240,
+    "narrate": true,
+    "narrate_interval": 10,
+    "narrate_per_turn": 2,
+    "narrate_water_interval": 150,
+    "auto_start": false
+  },
+  "tts": {
+    "enabled": true,
+    "auto_start": false
+  }
+}
